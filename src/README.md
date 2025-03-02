@@ -22,9 +22,7 @@ It is a work in progress but if you are a developer you can already find more th
 
 
 
-<figure><img src=".gitbook/assets/Screenshot 2025-02-07 at 00.04.17.png" alt="An image of the Venue CMS calendar display showing some sample events that are color tagged"><figcaption></figcaption></figure>
-
-A video guide to editing and organising pages:
+Check out our guide on editing and organising pages to start:
 
 {% embed url="https://vimeo.com/1059343714" %}
 
